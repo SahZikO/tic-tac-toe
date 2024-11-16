@@ -60,7 +60,7 @@ It offers a user-friendly experience where two players can take turns to play an
 <p>Clone the repository:</p> 
 git clone https://github.com/SahZikO/tic-tac-toe <br>
 Open index.html in your web browser. <br>
-Or here is the Link --> 
+Or here is the Link --> https://sahziko.github.io/tic-tac-toe/
 
 
 <h2>Enjoy playing Tic Tac Toe!</h2>
